@@ -1,4 +1,4 @@
-[![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)](https://rishavchanda.io)
+![Header](./banner.png)
 <h1 align="center">Hi 👋, I'm Faheemuddin Naseem</h1>
 <h3 align="center">Full-stack JavaScript Developer with Expertise in MERN Stack from India</h3>
 <img align="center" alt="coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
