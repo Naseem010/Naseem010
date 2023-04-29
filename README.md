@@ -1,7 +1,7 @@
-[![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Heres-What-it-Means-to-Be-a-Full-Stack-Developer.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Faheemuddin Naseem</h1>
 <h3 align="center">Full-stack JavaScript Developer with Expertise in MERN Stack from India</h3>
-<img align="right" alt="coding" width="500" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
+<img align="center" alt="coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseem010&label=Profile%20views&color=0e75b6&style=flat" alt="naseem010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naseem010" alt="naseem010" /></a> </p>
