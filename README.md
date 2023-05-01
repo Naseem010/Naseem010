@@ -47,7 +47,7 @@
 
 </div> 
 
-                                                     ### Show some ❤️ by starring some of the repositories!
+                                                 ### Show some ❤️ by starring some of the repositories!
   
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center" width="100%">
