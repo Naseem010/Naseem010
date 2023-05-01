@@ -39,16 +39,12 @@
 <a href="http://www.github.com/naseem010"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naseem010&stroke=facc15&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="https://github.com/naseem010" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseem010&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  
-<a href="http://www.github.com/naseem010"><img src="https://activity-graph.herokuapp.com/graph?username=naseem010&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
  
  <div align = "center">
  
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{naseem010}/count.svg)
 
-**Github Metrics**
-![GitHub metrics](https://metrics.lecoq.io/naseem010)
 </div> 
 
                                                      ### Show some ❤️ by starring some of the repositories!
