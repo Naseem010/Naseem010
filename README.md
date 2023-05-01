@@ -1,7 +1,9 @@
-![Header](./banner.png)
+
+  ![Header](./banner.png);
+
 <h1 align="center">Hi 👋, I'm Faheemuddin Naseem</h1>
 <h3 align="center">Full-stack JavaScript Developer with Expertise in MERN Stack from India</h3>
-<img align="center" alt="coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
+<img align="right" alt="coding" width="40%" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseem010&label=Profile%20views&color=0e75b6&style=flat" alt="naseem010" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naseem010" alt="naseem010" /></a> </p>
@@ -30,4 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naseem010&show_icons=true&locale=en" alt="naseem010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naseem010&" alt="naseem010" /></p>
-
+ <div align = "center">
+ 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{naseem010}/count.svg)
+</div> 
