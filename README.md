@@ -6,11 +6,11 @@
 <img  align="right" margin-right="0" alt="coding" width="40%" src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" >
 
 
-- 🔭 I’m currently working on **Filmistan**
+- 🔭 I’m currently working on **PetCare**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **JavaScript,React,Nodejs,MongoDB ,Git,OS and Data Structure & Algorithm**
+- 💬 Ask me about **Java,Springboot,MySQL,Git,OS and Data Structure & Algorithm**
 
 - 📫 How to reach me **fnaseem010@gmail.com**
 <p align="left" margin-left="0"> <img src="https://komarev.com/ghpvc/?username=naseem010&label=Profile%20views&color=0e75b6&style=flat" alt="naseem010" /> </p>
